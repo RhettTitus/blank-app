@@ -1,0 +1,21 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+env/
+venv/
+ENV/
+
+# Streamlit secrets
+.secrets.toml
+
+# Output files
+output/*.csv
+!output/historical_nrfi.csv
+
+# OS generated files
+.DS_Store
+Thumbs.db

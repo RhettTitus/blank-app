@@ -1,0 +1,2 @@
+game_id,team,opponent_team,pitcher,whip,xba,lineup_status,home_or_away,market_odds,sp_nrfi,team_nrfi,teamrankings_nrfi,model_probability,top4_avg_vs_pitcher,top4_obp_vs_pitcher,temp,wind_speed,wind_direction,condition,nrfi_occurred,profit
+123456789,Yankees,Red Sox,Gerrit Cole,0.98,0.215,confirmed,home,-120,0.89,0.75,0.77,0.84,0.212,0.287,72,8,Out to Center,Clear,1,84.0
